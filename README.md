@@ -54,29 +54,15 @@ Hi there! 👋 My name is Laiba and I am an IT student at Air University, Islama
         <img alt="Bootstrap"
             src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
     </a>
-    <br />
-    <br />
-    <summary><b>Backend Developement</b></summary>
-    <a href="https://nodejs.org/en/" target="_blank">
-        <img alt="Node.js"
-            src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    </a>
-    <a href="https://nodejs.org/en/" target="_blank">
-        <img alt="Express.JS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-    </a>
-    <a href="https://nodejs.org/en/" target="_blank">
-        <img alt="MongoDB"
-            src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-    </a>
 </p>
 
 ## 📊 Github Stats
 <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Abdullah's Github Stats"
-            src="https://github-readme-stats.vercel.app/api?username=abdullahqaisar&show_icons=true&count_private=true&theme=algolia"
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Laiba's Github Stats"
+            src="https://github-readme-stats.vercel.app/api?username=laibaahmar&show_icons=true&count_private=true&theme=algolia"
             height="192px" /></a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahqaisar&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"
-        alt="abdullahqaisar" height="192px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laibaahmar&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"
+        alt="laibaahmar" height="192px" />
     <br />
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect
     experience or skill level.
