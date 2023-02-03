@@ -19,3 +19,7 @@ Hi there! 👋 My name is Laiba and I am an IT student at Air University, Islama
     </a>
 </p>
 
+## 🔥 Streak Stats
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=laibaahmar&theme=algolia"
+        alt="laibaahmar" /></p>
+
