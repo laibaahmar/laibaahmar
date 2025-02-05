@@ -31,6 +31,10 @@ Hi there! 👋 My name is Laiba and I am an IT student at Air University, Islama
         <img alt="Python"
             src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     </a>
+        <a href="https://dart.dev/" target="_blank">
+        <img alt="Dart"
+            src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
+    </a>
     <br />
     <br />
     <summary><b>Frontend Developement</b></summary>
