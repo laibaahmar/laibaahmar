@@ -54,6 +54,10 @@ Hi there! 👋 My name is Laiba and I am an IT student at Air University, Islama
         <img alt="Bootstrap"
             src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
     </a>
+        <a href="https://flutter.dev/" target="_blank">
+        <img alt="Flutter"
+            src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white">
+    </a>
 </p>
 
 ## 📊 Github Stats
